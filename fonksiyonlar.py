@@ -33,9 +33,11 @@ bildirim()
 # bu seepten dolayı fonksiyonlara ihtiyaç duyarız.
 
 
-# 2 farklı fonksiyon vardır. parametre alan ve parametre almayan.
+# 2 farklı fonksiyon vardır. 
+#   1 - parametre almayan fonksiyonlar
+#   2 - parametre alan fonksiyonlar
 
-# parametre almayan fonksiyon iskelet yapısı:
+# 1 - parametre almayan fonksiyon iskelet yapısı:
 
 # def fonksiyon ():
 # // kodlar
